@@ -14,7 +14,7 @@ For this project I used the data of [Project Cowsara](https://coswara.iisc.ac.in
 ![](plots/metadata.jpg)
 
 # Project Description
-This data has a huge class imbalance having significantly low positive input.After undersampling negative inputs, used VGGish as transfer learning to create 256-dimension feature which is based on spectrogram input. Despite being missed any temporal characteristics, created another 474-dimension handcrafted features. 7310-dimension features further reduced by PCA retaining a portion of initial variance explained.[Click here](notebooks/visualization/feature_visualization.ipynb) to look at the different feature's visalization.
+This data has a huge class imbalance having significantly low positive input.After undersampling negative inputs, used VGGish as transfer learning to create 256-dimension feature which is based on spectrogram input. Despite being missed any temporal characteristics, created another 474-dimension handcrafted features. 730-dimension features further reduced by PCA retaining a portion of initial variance explained.[Click here](notebooks/visualization/feature_visualization.ipynb) to look at the different feature's visalization.
 
 
 ![](plots/box.jpg)
