@@ -1,6 +1,8 @@
 # Diagnose-Covid-19-from-Respiratory-Sound
 
 This repository contains implementation of Automatic Diagnosis of Covid-19 from respiratory sound data which is inspried by the research of [University of Cambridge](https://covid-19-sounds.org/en/) on this.[Click here](https://arxiv.org/abs/2006.05919) to have a look on the research paper.
+
+# My Work
                                   
    * [MetaData Visualizaion](notebooks/visualization/metadata_visualization.ipynb)
                                   
