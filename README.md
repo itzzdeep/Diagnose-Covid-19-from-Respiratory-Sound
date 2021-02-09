@@ -15,7 +15,7 @@ This repository contains implementation of Automatic Diagnosis of Covid-19 from 
                                   
    * [Model Comparison](notebooks/model_comparison.ipynb) Compares between different models.
    
-I have used many helper function in the notebooks that I have defined earlier. You will find all the pre-defined helper functiom [here](helper/)
+I have used many helper function in the notebooks that I have defined earlier. You will find all the pre-defined helper functiom [here](helper/).
 
 
 
