@@ -7,7 +7,7 @@ This repository contains implementation of Automatic Diagnosis of Covid-19 from 
    * [MetaData Visualizaion](notebooks/visualization/metadata_visualization.ipynb) Visualizes the meta-information of the dataset.
                                   
                                   
-   * [Extracting Features](notebooks/features_visualization.ipynb) Extracting 730-dimension from raw audio input.
+   * [Extracting Features](notebooks/features_visualization.ipynb) Extracting 730-dimension feature from raw audio input.
                                   
                                   
    * [Features Visualization](notebooks/visualizaion/features_visualization.ipynb) Visualizes the mean-features of the cough.
