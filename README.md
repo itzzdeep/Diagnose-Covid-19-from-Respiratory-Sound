@@ -1,3 +1,4 @@
 # Diagnose-Covid-19-from-Respiratory-Sound
 
-![](plots/data_visusalisation.ipynb)
+Watch this
+![](plots/data_visualisation.ipynb)
